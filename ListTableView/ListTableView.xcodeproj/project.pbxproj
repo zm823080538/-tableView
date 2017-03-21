@@ -118,7 +118,6 @@
 				TargetAttributes = {
 					CF4FD49E1E7F787600260965 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 8R3D5ADB82;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -281,7 +280,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8R3D5ADB82;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ListTableView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dongdongkeji.ListTableView;
@@ -293,7 +292,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8R3D5ADB82;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ListTableView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dongdongkeji.ListTableView;
@@ -320,6 +319,7 @@
 				CF4FD4B81E7F787600260965 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
